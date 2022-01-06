@@ -1,0 +1,13 @@
+export const ADMIN_ROUTE = '/admin';
+export const ADMIN_USERS_ROUTE = '/admin/users';
+export const ADMIN_PRODUCTS_ROUTE = '/admin/products';
+export const LOGIN_ROUTE = '/login';
+export const REGISTRATION_ROUTE = '/registration';
+export const SHOP_ROUTE = '/';
+export const BASKET_ROUTE = '/basket';
+export const DEVICE_ROUTE = '/device';
+export const CREATE_ORDER_ROUTE = '/createOrder';
+export const PERSONAL_INFORMATION_ROUTE = '/account/personal-information';
+export const ORDERS_ROUTE = '/account/orders';
+export const LIKES_ROUTE = '/account/likes';
+export const FEEDBACK_ROUTE = '/account/feedback';
